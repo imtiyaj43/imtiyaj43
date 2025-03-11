@@ -7,6 +7,14 @@
 💫 **About Me**: <br>
 🔭 I’m currently working on automating infrastructure, managing CI/CD pipelines, and optimizing cloud deployments using AWS, Kubernetes, Terraform, and Ansible.<br>👯 I’m looking to collaborate on cloud security best practices, infrastructure as code (IaC), and DevOps automation projects.<br>🤝 I’m looking for help with advanced security implementations in DevOps and improving observability in cloud environments.<br>🌱 I’m currently learning cloud security principles, advanced Kubernetes networking, and cost optimization strategies for cloud infrastructure.<br>💬 Ask me about CI/CD automation, Docker containerization, and infrastructure-as-code tools.<br>⚡ Fun fact I enjoy debugging complex infrastructure issues almost as much as solving real-life escape rooms! <br> 👨‍💻 All of my projects are available at [https://github.com/imtiyaj43](https://github.com/imtiyaj)
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/imtiyajshaikh" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Imtiyaj Shaikh" height="30" width="40" /></a>
+
+<a href="mailto:imtiyajshaikh6083@gmail.com" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="30" width="40" />
+</a>
+
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/imtiyajshaikh/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:imtiyajshaikh6083@gmail.com) 
