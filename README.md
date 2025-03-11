@@ -64,10 +64,10 @@
     <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> 
   </a>  
   <a href="https://www.sonarqube.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Sonarqube-logo.png" alt="SonarQube" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/sonarsource/sonarsource-icon.sv" alt="SonarQube" width="40" height="40"/> 
 </a>
 <a href="https://www.sonatype.com/products/nexus-repository" target="_blank" rel="noreferrer"> 
-    <img src="https://www.sonatype.com/hs-fs/hubfs/logos/NexusRepo-logo-color.svg" alt="Nexus Repository" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/sonatype/sonatype-icon.svg" alt="Nexus Repository" width="40" height="40"/> 
 </a>
 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
