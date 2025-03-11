@@ -3,7 +3,7 @@
 
 <h3 align="center">A passionate DevOps Engineer From India. I work in Corporate IT Sector </h3>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 
 ## 💫 About Me
 
@@ -20,7 +20,7 @@
 ⚡ **Fun fact:** I enjoy debugging complex infrastructure issues almost as much as solving real-life **escape rooms**!  
 
 👨‍💻 All of my projects are available at **[GitHub](https://github.com/imtiyaj43)**
-
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/imtiyajshaikh" target="blank"> 
