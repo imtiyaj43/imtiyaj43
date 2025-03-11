@@ -50,9 +50,10 @@
   <a href="https://developer.hashicorp.com/terraform" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21~bgwhite.svg" alt="terraform" width="40" height="40"/> 
   </a> 
-  <a href="https://docs.ansible.com/ansible/latest/getting_started/index.html" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21~bgwhite.svg" alt="terraform" width="40" height="40"/> 
-  </a> 
+   <a href="https://docs.ansible.com/ansible/latest/getting_started/index.html" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" alt="Ansible" width="40" height="40"/> 
+</a>
+
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="flask" width="40" height="40"/> 
   </a> 
@@ -70,8 +71,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a>
   <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="Javascript" width="40" height="40"/> 
-  </a> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="40" height="40"/> 
+</a>
+
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a> 
