@@ -53,7 +53,6 @@
    <a href="https://docs.ansible.com/ansible/latest/getting_started/index.html" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" alt="Ansible" width="40" height="40"/> 
 </a>
-
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="flask" width="40" height="40"/> 
   </a> 
@@ -63,15 +62,6 @@
   <a href="https://grafana.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> 
   </a>  
-  <a href="https://www.sonarqube.org/" target="_blank" rel="noreferrer"> 
-    <img src="<a href="https://www.sonarqube.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/SonarQube_logo.svg" alt="SonarQube" width="40" height="40"/> 
-</a> 
-</a>
-<a href="https://www.sonatype.com/products/nexus-repository" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/sonatype/sonatype-icon.svg" alt="Nexus Repository" width="40" height="40"/> 
-</a>
-
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   </a> 
