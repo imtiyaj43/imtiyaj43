@@ -8,11 +8,11 @@
 ## 💫 About Me
 
 🔭 I’m currently working on automating infrastructure, managing CI/CD pipelines, and optimizing cloud deployments using **AWS, Kubernetes, Terraform, and Ansible**.  
-
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 👯 I’m looking to collaborate on **cloud security best practices, infrastructure as code (IaC), and DevOps automation projects**.  
 
 🤝 I’m looking for help with **advanced security implementations in DevOps and improving observability in cloud environments**.  
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 🌱 I’m currently learning **cloud security principles, advanced Kubernetes networking, and cost optimization strategies for cloud infrastructure**.  
 
 💬 Ask me about **CI/CD automation, Docker containerization, and infrastructure-as-code tools**.  
