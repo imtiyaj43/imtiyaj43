@@ -3,26 +3,23 @@
 
 <h3 align="center">A passionate DevOps Engineer From India. I work in Corporate IT Sector </h3>
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <h2>💫 About Me</h2>
-        🔭 I’m currently working on automating infrastructure, managing CI/CD pipelines, and optimizing cloud deployments using <b>AWS, Kubernetes, Terraform, and Ansible</b>. <br><br>
-        👯 I’m looking to collaborate on <b>cloud security best practices, infrastructure as code (IaC), and DevOps automation projects</b>. <br><br>
-        🤝 I’m looking for help with <b>advanced security implementations in DevOps and improving observability in cloud environments</b>. <br><br>
-        🌱 I’m currently learning <b>cloud security principles, advanced Kubernetes networking, and cost optimization strategies for cloud infrastructure</b>. <br><br>
-        💬 Ask me about <b>CI/CD automation, Docker containerization, and infrastructure-as-code tools</b>. <br><br>
-        ⚡ <b>Fun fact:</b> I enjoy debugging complex infrastructure issues almost as much as solving real-life <b>escape rooms</b>! <br><br>
-        👨‍💻 All of my projects are available at <b><a href="https://github.com/imtiyaj43">GitHub</a></b>
-      </td>
-      <td>
-        <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400" alt="Coding">
-      </td>
-    </tr>
-  </table>
-</div>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
+## 💫 About Me
+
+🔭 I’m currently working on automating infrastructure, managing CI/CD pipelines, and optimizing cloud deployments using **AWS, Kubernetes, Terraform, and Ansible**.  
+
+👯 I’m looking to collaborate on **cloud security best practices, infrastructure as code (IaC), and DevOps automation projects**.  
+
+🤝 I’m looking for help with **advanced security implementations in DevOps and improving observability in cloud environments**.  
+
+🌱 I’m currently learning **cloud security principles, advanced Kubernetes networking, and cost optimization strategies for cloud infrastructure**.  
+
+💬 Ask me about **CI/CD automation, Docker containerization, and infrastructure-as-code tools**.  
+
+⚡ **Fun fact:** I enjoy debugging complex infrastructure issues almost as much as solving real-life **escape rooms**!  
+
+👨‍💻 All of my projects are available at **[GitHub](https://github.com/imtiyaj43)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
