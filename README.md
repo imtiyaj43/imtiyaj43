@@ -4,8 +4,21 @@
 <h3 align="center">A passionate DevOps Engineer From India. I work in Corporate IT Sector </h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-💫 **About Me**: <br>
-🔭 I’m currently working on automating infrastructure, managing CI/CD pipelines, and optimizing cloud deployments using AWS, Kubernetes, Terraform, and Ansible.<br>👯 I’m looking to collaborate on cloud security best practices, infrastructure as code (IaC), and DevOps automation projects.<br>🤝 I’m looking for help with advanced security implementations in DevOps and improving observability in cloud environments.<br>🌱 I’m currently learning cloud security principles, advanced Kubernetes networking, and cost optimization strategies for cloud infrastructure.<br>💬 Ask me about CI/CD automation, Docker containerization, and infrastructure-as-code tools.<br>⚡ Fun fact I enjoy debugging complex infrastructure issues almost as much as solving real-life escape rooms! <br> 👨‍💻 All of my projects are available at [https://github.com/imtiyaj43](https://github.com/imtiyaj)
+## 💫 About Me
+
+🔭 I’m currently working on automating infrastructure, managing CI/CD pipelines, and optimizing cloud deployments using **AWS, Kubernetes, Terraform, and Ansible**.  
+
+👯 I’m looking to collaborate on **cloud security best practices, infrastructure as code (IaC), and DevOps automation projects**.  
+
+🤝 I’m looking for help with **advanced security implementations in DevOps and improving observability in cloud environments**.  
+
+🌱 I’m currently learning **cloud security principles, advanced Kubernetes networking, and cost optimization strategies for cloud infrastructure**.  
+
+💬 Ask me about **CI/CD automation, Docker containerization, and infrastructure-as-code tools**.  
+
+⚡ **Fun fact:** I enjoy debugging complex infrastructure issues almost as much as solving real-life **escape rooms**!  
+
+👨‍💻 All of my projects are available at **[GitHub](https://github.com/imtiyaj43)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
