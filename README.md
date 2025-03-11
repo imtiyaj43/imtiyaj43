@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/imtiyajshaikh" target="blank"> 
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Imtiyaj Shaikh" height="30" width="40" style="margin-right: 15px;" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Imtiyaj Shaikh" height="30" width="40" style="margin-right: 25px;" />
   </a>
 
   <a href="mailto:imtiyajshaikh6083@gmail.com" target="blank">
