@@ -45,7 +45,13 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a> 
   <a href="https://github.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="git" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.hashicorp.com/terraform" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21~bgwhite.svg" alt="terraform" width="40" height="40"/> 
+  </a> 
+  <a href="https://docs.ansible.com/ansible/latest/getting_started/index.html" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21~bgwhite.svg" alt="terraform" width="40" height="40"/> 
   </a> 
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="flask" width="40" height="40"/> 
