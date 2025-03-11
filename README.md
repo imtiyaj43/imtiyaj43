@@ -64,7 +64,9 @@
     <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> 
   </a>  
   <a href="https://www.sonarqube.org/" target="_blank" rel="noreferrer"> 
-    <img src="![image](https://github.com/user-attachments/assets/cfaa5015-531c-43e4-8cc0-dacb7b76a8a9)" alt="SonarQube" width="40" height="40"/> 
+    <img src="<a href="https://www.sonarqube.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/SonarQube_logo.svg" alt="SonarQube" width="40" height="40"/> 
+</a> 
 </a>
 <a href="https://www.sonatype.com/products/nexus-repository" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/sonatype/sonatype-icon.svg" alt="Nexus Repository" width="40" height="40"/> 
