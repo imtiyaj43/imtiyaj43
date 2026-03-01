@@ -6,7 +6,7 @@
 <div align="center" style="position: relative; width: 100%; height: auto;">
   <h1>Hi there 👋, I'm Shaikh Imtiyaj Hanif</h1>
   <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=850&size=22&duration=4000&pause=1000&color=ffA500&center=true&vCenter=true&width=850&lines=DevOps+%7C+Cloud+%7C+SysOps;It's+all+about+the+unification+and+automation+of+the+process." />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=850&size=22&duration=4000&pause=1000&color=ffA500&center=true&vCenter=true&width=850&lines=DevOps+%7C+Cloud+%7C+DevSecOps+%7C+MLOps;It's+all+about+the+unification+and+automation+of+the+process." />
   </p>
 </div>
 
